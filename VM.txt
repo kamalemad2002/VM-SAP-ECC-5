@@ -1,4 +1,14 @@
+Installation Process:
 
+	1.SAP 2025 Set-UP: 26 GB (Compressed file)
+		7Z:- Extract tool
+	2.Requirements :
+		240 GB Free space
+		4GB RAM (minimum)
+		OS: Windows 7/8/10/11 (64 Bit)
+	3.Extraction :
+		SAP ECC : 207 GB
+		
 VM:-
 https://getintopc.com/softwares/virtualization/vmware-workstation-pro-2024-free-download/
 
@@ -10,3 +20,5 @@ https://drive.google.com/drive/folders/1VRIDDUniuYPDIe42rKRicq99alVKNNrg?usp=dri
 https://drive.google.com/drive/folders/153TvbKa0cjYJfqu8zGajbS5Q_oplr47H?usp=drive_link
 https://drive.google.com/file/d/1_tS00_JZrfKOTnT0TILiLvm6GNIbOTxE/view?usp=sharing
 https://www.sapvista.com/
+https://www.youtube.com/watch?v=XXL83MDltC8&t=387s
+full demp vid:- https://www.youtube.com/watch?v=xQo_gwOLOmc
